@@ -11,7 +11,7 @@ function Footer() {
                     <div className="flex">
                         <input
                             type="email"
-                            placeholder="Enter your email"
+                            placeholder="Inspired by Neal Fun"
                             className="bg-white border border-gray-300 rounded-md py-2 px-4 focus:outline-none focus:border-blue-500"
                         />
                         <button className="ml-2 bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded-md focus:outline-none">
