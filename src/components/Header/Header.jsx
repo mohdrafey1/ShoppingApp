@@ -8,7 +8,9 @@ function Header() {
                     className="text-white text-3xl font-bold ml-12 sm:ml-64"
                     style={{ fontFamily: 'Rubik Scribble, sans-serif' }}
                 >
-                    <a href="#">Jee Bhar Ke Shopping</a>
+                    <a href="https://lottery-app-mohdrafey1.vercel.app/">
+                        Jee Bhar Ke Shopping
+                    </a>
                 </div>
             </div>
         </div>
