@@ -7,7 +7,7 @@ function Info() {
         mb-4 mx-auto bg-white p-12 h-84"
         >
             <img
-                src="https://images.pexels.com/photos/3521353/pexels-photo-3521353.jpeg?auto=compress&cs=tinysrgb&w=600"
+                src="https://th.bing.com/th/id/OIG2.JF6BexXoF2aYN.pwPszw?w=270&h=270&c=6&r=0&o=5&dpr=1.3&pid=ImgGn"
                 alt="spend money"
                 className="mx-auto rounded-full w-32 h-32 mb-12"
             />
