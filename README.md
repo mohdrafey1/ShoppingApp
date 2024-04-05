@@ -10,4 +10,4 @@ Welcome to the Fun Shopping App! This application provides a user-friendly inter
 
 ## Demo 
 
-To see a live demo of the Lottery Website, please visit [here][https://jee-bharke-shopping.vercel.app].
+To see a live demo of the Lottery Website, please visit [here](https://jee-bharke-shopping.vercel.app).
